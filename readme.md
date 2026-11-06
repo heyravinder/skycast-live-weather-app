@@ -17,24 +17,17 @@ SkyCast allows users to search cities, check current weather conditions, explore
   
   
 
-## Features (v1)
 
-- City search with autocomplete, plus "Use my location" (asks permission)
-- Current temperature, feels-like, condition and local time for the selected city
-- Humidity, wind speed and direction, pressure, visibility, UV index, chance of rain, sunrise and sunset
-- Next-24-hours strip and temperature chart (Chart.js)
-- 7-day forecast with min/max range bars and rain chance
-- °C/°F and km/mi toggles
-- Background changes with the weather, and darkens at night
-- Saved cities and recent searches (localStorage)
-- Cached results (10 minutes), offline fallback, error messages, refresh button, last-updated time
+## ✨ Features
 
-- Air quality: US AQI with PM2.5, PM10, NO₂ and ozone
-- Chart tabs for temperature, wind and rain, plus moon phase
-- Interactive Leaflet map: click anywhere to get the weather there
-- Compare two cities side by side
-- Animated rain and snow, and an Auto/Light/Dark theme toggle
-
+- 🔍 **City Search** — Search for weather conditions in different cities.
+- 🌡️ **Current Weather** — View temperature and current weather conditions.
+- 📅 **7-Day Forecast** — Explore upcoming daily weather forecasts.
+- 🕒 **Hourly Forecast** — Check weather changes throughout the day.
+- 💧 **Weather Details** — View humidity, wind speed, and other available weather metrics.
+- 📱 **Responsive Design** — Use the application across desktop, tablet, and mobile devices.
+- 🔄 **Live Weather Data** — Fetch updated forecasts using the Open-Meteo API.
+  
 ## Tech stack
 
 HTML5, CSS3, JavaScript (async/await), Open-Meteo Forecast and Geocoding APIs, Chart.js, localStorage, Git, Vercel.
