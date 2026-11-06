@@ -5,16 +5,16 @@ A modern, responsive weather dashboard built using HTML, CSS, and JavaScript, po
 
 SkyCast allows users to search cities, check current weather conditions, explore hourly and 7-day forecasts, and view detailed weather information through an interactive interface.
 
+
 ### 🚀 Live Demo
 
-Coming soon — deployment in progress.
+🌐 **[View Live SkyCast App](https://magical-chimera-ae9c1a.netlify.app/)**
 
 ### 🔗 Project Links
 
-- **GitHub:** https://github.com/heyravinder/skycast-live-weather-app
-- **Live Website:** Coming soon
-
----
+- **Live Website:** https://magical-chimera-ae9c1a.netlify.app/
+- **GitHub Repository:** https://github.com/heyravinder/skycast-live-weather-app
+  
   
 
 ## Features (v1)
