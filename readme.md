@@ -14,7 +14,13 @@ SkyCast allows users to search cities, check current weather conditions, explore
 
 - **Live Website:** https://magical-chimera-ae9c1a.netlify.app/
 - **GitHub Repository:** https://github.com/heyravinder/skycast-live-weather-app
-  
+
+## 📸 Application Preview
+
+![SkyCast Weather Dashboard](./skycast-dashboard.png)
+
+*SkyCast — Live Weather Forecast Dashboard*
+    
   
 
 
