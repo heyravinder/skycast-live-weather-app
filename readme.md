@@ -1,8 +1,21 @@
-# SkyCast – Live Weather & Forecast Dashboard
 
-A responsive weather dashboard built with plain HTML, CSS and JavaScript. It shows live conditions, a 24-hour chart and a 7-day forecast for any city, using the free [Open-Meteo](https://open-meteo.com/) API (no API key needed).
+# 🌤️ SkyCast — Live Weather Forecast App
 
-**Live demo:** _add your Vercel link here_
+A modern, responsive weather dashboard built using HTML, CSS, and JavaScript, powered by the Open-Meteo API.
+
+SkyCast allows users to search cities, check current weather conditions, explore hourly and 7-day forecasts, and view detailed weather information through an interactive interface.
+
+### 🚀 Live Demo
+
+Coming soon — deployment in progress.
+
+### 🔗 Project Links
+
+- **GitHub:** https://github.com/heyravinder/skycast-live-weather-app
+- **Live Website:** Coming soon
+
+---
+  
 
 ## Features (v1)
 
