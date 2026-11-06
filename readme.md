@@ -66,15 +66,19 @@ Alternatively, use the Live Server extension in VS Code.
 
 Push to GitHub, import the repo in Vercel, and deploy. No build settings are needed for a static site.
 
-## Project structure
+## 📁 Project Structure
 
-```
-skycast/
+```text
+skycast-live-weather-app/
 ├── index.html
-├── css/style.css
-├── js/app.js
-└── README.md
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── skycast-dashboard.png
+└── readme.md
 ```
+  
 
 ## Roadmap
 
