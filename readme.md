@@ -28,13 +28,27 @@ HTML5, CSS3, JavaScript (async/await), Open-Meteo Forecast and Geocoding APIs, C
 
 ## Run locally
 
+1. Clone the repository:
+
 ```bash
-git clone https://github.com/heyravinder/skycast.git
-cd skycast
-npx serve .      # or use the VS Code "Live Server" extension
+git clone https://github.com/heyravinder/skycast-live-weather-app.git
 ```
 
-Open the printed address in your browser.
+2. Open the project folder:
+
+```bash
+cd skycast-live-weather-app
+```
+
+3. Start a local server:
+
+```bash
+npx serve .
+```
+
+4. Open the local URL displayed in your terminal.
+
+Alternatively, use the Live Server extension in VS Code.
 
 ## Deploy
 
